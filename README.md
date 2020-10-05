@@ -1,4 +1,5 @@
 # FlutterJourney
+<p align="center"><img src="https://mydigitalsauce.com/wp-content/uploads/edd/2019/02/flutter-banner.png" ></a></p>
 
 A new Flutter project.
 
